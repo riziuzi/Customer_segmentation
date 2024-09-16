@@ -76,7 +76,11 @@ We evaluate four machine learning models for purchase prediction:
 1. Logistic Regression
 2. Decision Tree
 3. Random Forest
-4. XGBoost
+4. k-Nearest Neighbors
+5. Support Vector Machine (SVC
+6. Gradient Boosting Classifier
+7. AdaBoost Classifier
+8. Voting Classifier (RF + GB + kNN)
 
 These models are chosen based on their proven efficacy in similar e-commerce contexts (Chen & Guestrin, 2016; Liaw & Wiener, 2002).
 
