@@ -2,6 +2,9 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
 
+![AakashMehtaCustomerIsKingGIF](https://github.com/user-attachments/assets/056b73bc-b2d3-42f2-9a95-ae32a5a803d3)
+
+
 ## Table of Contents
 
 - [E-commerce Customer Segmentation and Purchase Prediction](#e-commerce-customer-segmentation-and-purchase-prediction)
@@ -107,6 +110,8 @@ pip install -r requirements.txt
 ```
 
 ## Contributing
+
+![PullrequestGIF](https://github.com/user-attachments/assets/9e27c9e0-640b-485a-b89d-1fc1ee9cbe00)
 
 We welcome contributions to this project. Please follow these steps:
 
