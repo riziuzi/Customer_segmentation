@@ -37,7 +37,7 @@ In the rapidly evolving landscape of e-commerce, understanding customer behavior
 1. Classification of customers into distinct segments based on purchase behavior and demographics.
 2. Prediction of future purchases for new customers during their initial year, leveraging only first-purchase data.
 
-These objectives align with the current research trends in customer relationship management (CRM) and predictive analytics in e-commerce (Kumar et al., 2020; Wang et al., 2019).
+These objectives align with the current research trends in customer relationship management (CRM) and predictive analytics in e-commerce
 
 ## Methodology
 
@@ -67,7 +67,7 @@ To enhance the predictive power of our models, we employ various feature enginee
 
 ### Customer Segmentation
 
-For customer segmentation, we implement the K-means clustering algorithm. The optimal number of clusters is determined through the elbow method and silhouette analysis (Kodinariya & Makwana, 2013).
+For customer segmentation, we implement the K-means clustering algorithm. The optimal number of clusters is determined through the elbow method and silhouette analysis.
 
 ### Purchase Prediction
 
